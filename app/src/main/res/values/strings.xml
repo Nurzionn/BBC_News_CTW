@@ -1,0 +1,14 @@
+<resources>
+    <string name="something_wrong_with_connection">Something wrong with connection!</string>
+    <string name="news_title">News</string>
+    <string name="error_fetching_news">ERROR FETCHING NEWS:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="biometrics_error">BIOMETRICS ERROR</string>
+    <string name="auth_failed">Authentication Failed!</string>
+    <string name="auth_error">Authentication Error!</string>
+    <string name="biometric_auth_title">Biometric Authentication</string>
+    <string name="auth_using_biometric">Please authenticate using your biometric</string>
+    <string name="cancel">Cancel</string>
+    <string name="touch_to_active_biometric">Touch to active biometric</string>
+</resources>

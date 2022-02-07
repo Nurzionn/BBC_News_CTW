@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-hdpi/activity_main.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-hdpi/fragment_article_info.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-hdpi/fragment_articles_list.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-hdpi/news_item.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-land/activity_main.xml" value="0.1353615520282187" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-land/fragment_article_info.xml" value="0.1353615520282187" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-land/fragment_articles_list.xml" value="0.1353615520282187" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-mdpi/activity_main.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-mdpi/fragment_article_info.xml" value="0.6395833333333333" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-mdpi/fragment_articles_list.xml" value="0.6395833333333333" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-mdpi/news_item.xml" value="0.7416666666666667" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-normal/activity_name.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-normal/news_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-sw320dp/acitvity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-sw320dp/news_item.xml" value="0.1" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-sw400dp/fragment_articles_list.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-sw600dp/news_item.xml" value="0.1" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-xhdpi/fragment_article_info.xml" value="0.2" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout-xhdpi/fragment_articles_list.xml" value="0.2" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout/empty_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout/fragment_article_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout/fragment_articles_list.xml" value="0.72" />
+        <entry key="..\:/Users/RedIT/AndroidStudioProjects/BBCNewsCTW/app/src/main/res/layout/news_item.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

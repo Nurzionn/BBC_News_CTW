@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="padding">8dp</dimen>
+
+    <dimen name="mdpi_text_size">16sp</dimen>
+    <dimen name="xhdpi_text_size">20sp</dimen>
+
+    <dimen name="mdpi_title_size">20sp</dimen>
+    <dimen name="xhdpi_title_size">24sp</dimen>
+
+    <dimen name="mdpi_row_text_size">12sp</dimen>
+    <dimen name="xhdpi_row_text_size">16sp</dimen>
+
+    <dimen name="mdpi_row_date_text_size">10sp</dimen>
+    <dimen name="xhdpi_row_date_text_size">14sp</dimen>
+
+    <dimen name="mdpi_error_image">64dp</dimen>
+    <dimen name="xhdpi_error_image">128dp</dimen>
+
+    <dimen name="mdpi_image">32dp</dimen>
+    <dimen name="xhdpi_image">64dp</dimen>
+</resources>
