@@ -30,7 +30,7 @@ public class Utils {
      *
      * The URL variables are saved in BuildConfig file, and can be changed on productFlavours in build.gradle(app)
      */
-    public static void setAPIConnectionConfig() {
+    public static void setupAPIConnection() {
         client = new OkHttpClient.Builder()
                 .connectTimeout(10, TimeUnit.SECONDS)
                 .writeTimeout(10, TimeUnit.SECONDS)
@@ -47,7 +47,7 @@ public class Utils {
      * Change Date format from API, to show a cleaner format to the user
      */
     public static String changeDateFormat(String dateNotFormatted){
-        String dateFormatted = "";
+        String dateFormatted;
         Date date;
 
         try {

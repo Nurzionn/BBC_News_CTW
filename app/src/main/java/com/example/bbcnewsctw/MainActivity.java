@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity implements OnClickLayoutList
 
     private void showFirstFragment() {
         binding.biometricLinearLayout.setVisibility(View.GONE);
-        Utils.setAPIConnectionConfig();
+        Utils.setupAPIConnection();
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .setReorderingAllowed(true)

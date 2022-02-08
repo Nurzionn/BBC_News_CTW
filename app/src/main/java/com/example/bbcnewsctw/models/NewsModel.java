@@ -4,7 +4,6 @@ import com.google.gson.annotations.SerializedName;
 
 import java.io.Serializable;
 import java.util.ArrayList;
-import java.util.List;
 
 public class NewsModel implements Serializable {
 
@@ -16,9 +15,5 @@ public class NewsModel implements Serializable {
 
     public ArrayList<ArticleModel> getArticles() {
         return articles;
-    }
-
-    public void setArticles(ArrayList<ArticleModel> articles) {
-        this.articles = articles;
     }
 }
